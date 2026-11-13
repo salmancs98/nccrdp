@@ -1,6 +1,6 @@
 {
   "version": "v2.1",
-  "sha256": "4b1b5bccd327d2547d3dc69c8d5bd51bc509e48fc3f86cbfcd8307672ea08d7a",
+  "sha256": "5e33749518962598759d8306aca5f160d33065f4927fcfa93890d55bb1d8aafe",
   "notes": "Fast screen streaming, LAN auto-discovery, and in-app update sync.",
   "download_url": "https://github.com/salmancs98/nccrdp/releases/latest/download/NCCRemoteConnect.exe"
 }
